@@ -1,0 +1,3 @@
+init_cubic.f90   ===== 1(a) random arrangement making sure they are not sitting on top of each other).
+init_random.f90  ===== 1(b) cubic arrangement
+force.f90        ===== (2)  force calculation 
